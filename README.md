@@ -2,4 +2,4 @@
 
 
 ### Home
-![Screenshot](screenshots/1.jpeg)
+![Screenshot](Screenshots/1.jpeg)
